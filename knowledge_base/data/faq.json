@@ -1,0 +1,20 @@
+{
+    "faqs": [
+      {
+        "question": "How does the barbeque concept work?",
+        "answer": "At Barbeque Nation, we provide a live grill on your table where you can grill your own starters. Our staff will assist you with marinades and cooking techniques."
+      },
+      {
+        "question": "Is there a buffet option?",
+        "answer": "Yes, we offer an all-you-can-eat buffet including live grill starters, main course, and desserts."
+      },
+      {
+        "question": "Do you have vegan options?",
+        "answer": "Yes, we offer several vegan dishes. Please inform our staff about your dietary preferences when making a reservation."
+      },
+      {
+        "question": "How do I make a reservation?",
+        "answer": "You can make reservations through our website, phone, or through this chatbot by providing your name, contact details, preferred date, time, and number of guests."
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "outlets": [
+      {
+        "name": "Barbeque Nation Connaught Place",
+        "address": "N-79, Block N, Connaught Place, New Delhi",
+        "phone": "011-12345678",
+        "hours": "12:00 PM - 11:00 PM",
+        "specialty": "Live grill table barbeque experience"
+      },
+      {
+        "name": "Barbeque Nation Nehru Place",
+        "address": "L-12, Nehru Place, New Delhi",
+        "phone": "011-23456789",
+        "hours": "12:00 PM - 11:00 PM",
+        "specialty": "Seafood grill specialties"
+      }
+    ]
+  }

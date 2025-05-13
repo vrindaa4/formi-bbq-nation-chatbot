@@ -1,0 +1,32 @@
+{
+    "states": {
+      "greeting": {
+        "description": "Initial greeting state",
+        "transitions": ["intent_recognition"]
+      },
+      "intent_recognition": {
+        "description": "Determine user intent",
+        "transitions": ["booking", "inquiry", "modification"]
+      },
+      "booking": {
+        "description": "Handle new booking requests",
+        "transitions": ["confirmation", "intent_recognition"]
+      },
+      "inquiry": {
+        "description": "Answer questions about BBQ Nation",
+        "transitions": ["intent_recognition", "booking"]
+      },
+      "modification": {
+        "description": "Handle booking modifications or cancellations",
+        "transitions": ["confirmation", "intent_recognition"]
+      },
+      "confirmation": {
+        "description": "Confirm user actions",
+        "transitions": ["intent_recognition", "farewell"]
+      },
+      "farewell": {
+        "description": "End conversation",
+        "transitions": []
+      }
+    }
+  }

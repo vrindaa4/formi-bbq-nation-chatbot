@@ -1,0 +1,38 @@
+{
+    "categories": [
+      {
+        "name": "Starters",
+        "items": [
+          {
+            "name": "Tandoori Prawns",
+            "description": "Spiced prawns cooked in tandoor",
+            "veg": false,
+            "price": "₹350"
+          },
+          {
+            "name": "Paneer Tikka",
+            "description": "Marinated cottage cheese grilled to perfection",
+            "veg": true,
+            "price": "₹300"
+          }
+        ]
+      },
+      {
+        "name": "Main Course",
+        "items": [
+          {
+            "name": "Biryani",
+            "description": "Fragrant rice dish with choice of protein",
+            "veg": "Available in both veg and non-veg",
+            "price": "₹450"
+          },
+          {
+            "name": "Dal Makhani",
+            "description": "Creamy black lentils",
+            "veg": true,
+            "price": "₹320"
+          }
+        ]
+      }
+    ]
+  }

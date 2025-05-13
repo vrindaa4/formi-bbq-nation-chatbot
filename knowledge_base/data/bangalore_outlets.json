@@ -1,0 +1,18 @@
+{
+    "outlets": [
+      {
+        "name": "Barbeque Nation Koramangala",
+        "address": "21/1, 5th Block, Koramangala, Bangalore",
+        "phone": "080-12345678",
+        "hours": "12:00 PM - 11:00 PM",
+        "specialty": "North Indian grills and desserts"
+      },
+      {
+        "name": "Barbeque Nation MG Road",
+        "address": "45/3, MG Road, Bangalore",
+        "phone": "080-23456789",
+        "hours": "12:00 PM - 11:00 PM",
+        "specialty": "Signature BBQ platters"
+      }
+    ]
+  }
